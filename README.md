@@ -7,7 +7,7 @@
   
   ***
 
-  Welcome to the pacman factory! Each click of the "Add PacMan" button results in a new pacman! Press the "Start Game" button and watch then bounce around the factory! 
+  Welcome to the pacman factory! Each click of the "Add PacMan" button results in a new pacman! Press the "Start Game" button and watch them bounce around the factory! 
   
   #### ... ROADMAP OF FUTURE IMPROVEMENTS ...
 
