@@ -12,6 +12,8 @@
   
   #### HOW TO RUN
   
+  ***
+  
   Download or fork the respository. 
   Click to add Pacman, press start game to see them move around. 
   
