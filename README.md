@@ -4,34 +4,28 @@
 </div>
  
   #### DESCRIPTION
-  
-  ***
 
   Welcome to the pacman factory! Each click of the "Add PacMan" button results in a new pacman! Press the "Start Game" button and watch them bounce around the factory! 
   
-  
-  #### HOW TO RUN
-  
   ***
+    
+  #### HOW TO RUN
   
   Download or fork the respository. 
   Click to add Pacman, press start game to see them move around. 
   
-  
-  #### FUTURE IMPROVEMENTS
-
   ***
+    
+  #### FUTURE IMPROVEMENTS
   
   Some things I am interested in applying to future edits:
   - add a 'factory' background
   - add other pacmen with different expressions
 
-
+ ***
 
 
   #### ... LICENSE INFORMATION ...
-  
-  ***
   
 MIT License
 
